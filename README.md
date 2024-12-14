@@ -22,7 +22,7 @@ git clone https://github.com/harshenhars/Notpixel/
 ```
 cd Notpixel
 ```
-5.Add Refferal link here:
+5. Add Refferal link here:
 ```
 php adduser.php
 ```
