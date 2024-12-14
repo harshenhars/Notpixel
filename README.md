@@ -30,7 +30,4 @@ php adduser.php
 ```
 php main.php
 ```
-Enjoy Your Script 
-Warning ⚠️ Its Puplic Not for sale
-
-Follow me on Telegram Micyberwarrior 
+Enjoy!!!
